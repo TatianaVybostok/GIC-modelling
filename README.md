@@ -1,0 +1,2 @@
+# GIC-modelling
+modelling of geoelectric field using one-minute geomagnetic measurements from Intermagnet database. We applied this model to the long-term measurements of the geomagnetic field during the period of increased solar activity (for example in days when aurora was observed) and considered possible destructive effects on the distribution network infrastructures. Using geoelectric field we computed currents that are induced in these infrastructures. Their values varied in order of tens of amperes. 
